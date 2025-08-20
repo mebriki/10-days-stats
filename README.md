@@ -6,37 +6,39 @@ Solutions to HackerRank's **10 Days of Statistics** challenge series. This repos
 
 ## 📚 Challenge List
 
-| Day | Challenge | Type | Solution | Status |
-|-----|-----------|------|----------|--------|
-| 0 | Mean, Median, and Mode | Coding | [View Solution](./python/day0_mean_median_mode.py) | ✅ |
-| 0 | Weighted Mean | Coding | Coming Soon | ⏳ |
-| 1 | Quartiles | Coding | Coming Soon | ⏳ |
-| 1 | Interquartile Range | Coding | Coming Soon | ⏳ |
-| 1 | Standard Deviation | Coding | Coming Soon | ⏳ |
-| 2 | Basic Probability | Multiple Choice | Coming Soon | ⏳ |
-| 2 | More Dice | Multiple Choice | Coming Soon | ⏳ |
-| 2 | Compound Event Probability | Multiple Choice | Coming Soon | ⏳ |
-| 3 | Conditional Probability | Multiple Choice | Coming Soon | ⏳ |
-| 3 | Cards of the Same Suit | Multiple Choice | Coming Soon | ⏳ |
-| 3 | Drawing Marbles | Multiple Choice | Coming Soon | ⏳ |
-| 4 | Binomial Distribution I | Coding | Not Available Yet | 🔒 |
-| 4 | Binomial Distribution II | Coding | Not Available Yet | 🔒 |
-| 4 | Geometric Distribution I | Coding | Not Available Yet | 🔒 |
-| 4 | Geometric Distribution II | Coding | Not Available Yet | 🔒 |
-| 5 | Poisson Distribution I | Coding | Not Available Yet | 🔒 |
-| 5 | Poisson Distribution II | Coding | Not Available Yet | 🔒 |
-| 5 | Normal Distribution I | Coding | Not Available Yet | 🔒 |
-| 5 | Normal Distribution II | Coding | Not Available Yet | 🔒 |
-| 6 | The Central Limit Theorem I | Coding | Not Available Yet | 🔒 |
-| 6 | The Central Limit Theorem II | Coding | Not Available Yet | 🔒 |
-| 6 | The Central Limit Theorem III | Coding | Not Available Yet | 🔒 |
-| 7 | Pearson Correlation Coefficient I | Coding | Not Available Yet | 🔒 |
-| 7 | Spearman's Rank Correlation Coefficient | Coding | Not Available Yet | 🔒 |
-| 8 | Least Square Regression Line | Coding | Not Available Yet | 🔒 |
-| 8 | Pearson Correlation Coefficient II | Coding | Not Available Yet | 🔒 |
-| 9 | Multiple Linear Regression | Coding | Not Available Yet | 🔒 |
+| Day | Challenge | Type | Problem | Solution | Status |
+|-----|-----------|------|---------|----------|--------|
+| 0 | Mean, Median, and Mode | Coding | [📋](https://www.hackerrank.com/challenges/s10-basic-statistics) | [💻](./python/day0_mean_median_mode.py) | ✅ |
+| 0 | Weighted Mean | Coding | [📋](https://www.hackerrank.com/challenges/s10-weighted-mean) | Coming Soon | ⏳ |
+| 1 | Quartiles | Coding | [📋](https://www.hackerrank.com/challenges/s10-quartiles) | Coming Soon | ⏳ |
+| 1 | Interquartile Range | Coding | [📋](https://www.hackerrank.com/challenges/s10-interquartile-range) | Coming Soon | ⏳ |
+| 1 | Standard Deviation | Coding | [📋](https://www.hackerrank.com/challenges/s10-standard-deviation) | Coming Soon | ⏳ |
+| 2 | Basic Probability | Multiple Choice | [📋](https://www.hackerrank.com/challenges/s10-mcq-1) | Coming Soon | ⏳ |
+| 2 | More Dice | Multiple Choice | [📋](https://www.hackerrank.com/challenges/s10-mcq-2) | Coming Soon | ⏳ |
+| 2 | Compound Event Probability | Multiple Choice | [📋](https://www.hackerrank.com/challenges/s10-mcq-3) | Coming Soon | ⏳ |
+| 3 | Conditional Probability | Multiple Choice | [📋](https://www.hackerrank.com/challenges/s10-mcq-4) | Coming Soon | ⏳ |
+| 3 | Cards of the Same Suit | Multiple Choice | [📋](https://www.hackerrank.com/challenges/s10-mcq-5) | Coming Soon | ⏳ |
+| 3 | Drawing Marbles | Multiple Choice | [📋](https://www.hackerrank.com/challenges/s10-mcq-6) | Coming Soon | ⏳ |
+| 4 | Binomial Distribution I | Coding | [📋](https://www.hackerrank.com/challenges/s10-binomial-distribution-1) | Not Available Yet | 🔒 |
+| 4 | Binomial Distribution II | Coding | [📋](https://www.hackerrank.com/challenges/s10-binomial-distribution-2) | Not Available Yet | 🔒 |
+| 4 | Geometric Distribution I | Coding | [📋](https://www.hackerrank.com/challenges/s10-geometric-distribution-1) | Not Available Yet | 🔒 |
+| 4 | Geometric Distribution II | Coding | [📋](https://www.hackerrank.com/challenges/s10-geometric-distribution-2) | Not Available Yet | 🔒 |
+| 5 | Poisson Distribution I | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 5 | Poisson Distribution II | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 5 | Normal Distribution I | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 5 | Normal Distribution II | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 6 | The Central Limit Theorem I | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 6 | The Central Limit Theorem II | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 6 | The Central Limit Theorem III | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 7 | Pearson Correlation Coefficient I | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 7 | Spearman's Rank Correlation Coefficient | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 8 | Least Square Regression Line | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 8 | Pearson Correlation Coefficient II | Coding | Not Available Yet | Not Available Yet | 🔒 |
+| 9 | Multiple Linear Regression | Coding | Not Available Yet | Not Available Yet | 🔒 |
 
 ### Legend:
+- 📋 = Problem link on HackerRank
+- 💻 = Solution file
 - ✅ = Completed
 - ⏳ = Available but not solved yet
 - 🔒 = Not available yet (unlocks daily)
